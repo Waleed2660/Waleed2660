@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 
+
+- 👋 I'm a Second Year Computer Science Student at Lancaster Univeristy
+- 📫  If you're an employer & interested to look into my work, please get in touch with me as I have to keep courseworks private on github.
+
 
 <!--
 **Waleed2660/Waleed2660** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

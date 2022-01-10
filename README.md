@@ -1,7 +1,8 @@
 ### Hi there 
 
-- 👋 I'm a Second Year Computer Science Student at Lancaster Univeristy
-- 📫  If you're an employer & interested to look into my work, please get in touch with me as I have to keep courseworks private on github.
+- 👋 I'm a Final Year Computer Science Student at Lancaster Univeristy
+- 🔭 I’m currently working on developing a machine learning model to process high resolution satellite and drones imagery to fight waste crime
+- 📫 If you're an employer & interested to look into my work, please get in touch with me as I have to keep courseworks private on github.
 
 
 <!--
@@ -9,7 +10,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

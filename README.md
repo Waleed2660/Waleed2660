@@ -1,7 +1,7 @@
 ### Hi there 
 
-- 👋 I'm a Final Year Computer Science Student at Lancaster Univeristy
-- 🔭 I’m currently working on developing a machine learning model to process high resolution satellite and drones imagery to fight waste crime
+- 👋 I'm a Graduate Software Developer at THG
+- 🔭 I’m currently working with different machine learning models to process high resolution satellite and drones imagery to detect landfills
 - 📫 If you're an employer & interested to look into my work, please get in touch with me as I have to keep courseworks private on github.
 
 

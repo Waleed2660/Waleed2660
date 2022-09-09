@@ -1,7 +1,7 @@
 ### Hi there 
 
 - 👋 I'm a Graduate Software Developer at THG
-- 🔭 I’m currently working with different machine learning models to process high resolution satellite and drones imagery to detect landfills
+- 🔭 I’m currently working with various machine learning models to process high resolution satellite and drones imagery to detect landfills
 
 
 <!--

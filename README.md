@@ -3,7 +3,7 @@
 - I'm a Graduate Software Engineer at THG
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 
    <img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Waleed2660&theme=radical" />
    

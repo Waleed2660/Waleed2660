@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 #### Projects
-[🎮 DJI Tello with Xbox Controller](https://github.com/Waleed2660/DJITello_Xbox_Controller) - Lets you fly the DJI Tello drone with an Xbox Controller
+🎮[DJI Tello with Xbox Controller](https://github.com/Waleed2660/DJITello_Xbox_Controller) - Lets you fly the DJI Tello drone with an Xbox Controller
    
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waleed-t) 

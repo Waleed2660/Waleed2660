@@ -2,6 +2,7 @@
 
 #### Projects
 👌[Handy](https://github.com/Waleed2660/Handy) - Working on a Python based tool powered by Google's Mediapipe framework that lets you control cursor via hand tracking
+
 🎮[DJI Tello with Xbox Controller](https://github.com/Waleed2660/DJITello_Xbox_Controller) - Lets you fly the DJI Tello drone with an Xbox Controller
    
 ## Socials:

@@ -22,8 +22,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleed2660&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=waleed2660&theme=dark&hide_border=false)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=waleed2660&icon=0&color=0)](https://visitcount.itsvg.in)

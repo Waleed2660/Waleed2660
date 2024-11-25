@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 #### Projects
-☁️ [Nimbus](https://github.com/Waleed2660/nimbus-ui) - (Work in Progress..) Building a WebApp for private cloud storage using React, Java Springboot & Amazon S3
+☁️ [Nimbus](https://github.com/Waleed2660/nimbus-ui) - Currently building a WebApp for private cloud storage using React, Java Springboot & Amazon S3
 
 👌 [Handy](https://github.com/Waleed2660/Handy) - Python based tool powered by Google's Mediapipe framework that lets you control cursor via hand tracking
 

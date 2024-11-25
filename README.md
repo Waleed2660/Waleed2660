@@ -17,6 +17,11 @@
   </a>
 </p>
 
+<h1 align="center">📊 GitHub Stats:</h1>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleed2660&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=waleed2660&theme=dark&hide_border=false)
 

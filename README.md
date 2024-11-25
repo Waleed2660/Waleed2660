@@ -10,7 +10,7 @@
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/waleed-t) 
 
-# Skills:
+## Skills:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,js,spring,react,tailwind,git,github,vim,nginx,docker,kubernetes,aws,grafana,elasticsearch,jenkins,postman,idea,gradle,maven,apple,linux,html,css" />

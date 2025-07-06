@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 ## Projects
-☁️ [Nimbus](https://github.com/Waleed2660/nimbus-ui) - Building a WebApp for private cloud storage using React, Java Springboot & Amazon S3
+☁️ [Nimbus](https://github.com/Waleed2660/nimbus-ui) - Building an AI powered private cloud storage using React, Java, SpringBoot, Langchain4j & Amazon S3
 
 🟢 [SpringBoot Learning Kit](https://github.com/Waleed2660/springboot-learning-kit) - OpenSource SpringBoot project to help new begginers get taste of Production ready Enterprise applications 
 
